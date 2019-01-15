@@ -80,6 +80,7 @@ h3 {
 nav {
   float: right;
   margin-top: 25px;
+  margin-right: 20px;
 }
 
 nav a {
@@ -217,9 +218,6 @@ input[type=submit] {
 }
 @media screen and (max-width: 980px)
 {
-  nav{
-    margin-right: 20px;
-  }
   .auth-image{
     width: 250px;
   }
@@ -227,9 +225,6 @@ input[type=submit] {
 
 @media screen and (max-width: 768px)
 {
-  nav{
-    margin-right: 20px;
-  }
   .auth-image{
     width: 350px;
   }
@@ -238,7 +233,6 @@ input[type=submit] {
 @media screen and (max-width: 640px)
 {
   nav{
-    margin-right: 20px;
     width: 70vw;
   }
   

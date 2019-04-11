@@ -135,6 +135,13 @@ h3, h2 {
   border: 1px solid #dddddd;
 }
 
+a{
+  color: #4aaaa5;
+  font-size: 25px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 /* portfolio page */
 
 .work {
